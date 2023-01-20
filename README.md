@@ -13,7 +13,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Youtube Badge" width="70" />
   </a>
   
-  <a href="mailto:denisolovey990@gmail.com">
+  <a href="mailto:denissolovey990@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/010/151/138/non_2x/email-and-mail-icon-sign-symbol-design-free-png.png" alt="Mail bage" width="70" />
   </a>
 </div>
@@ -31,7 +31,7 @@ I'am Java backend developer from Belarus!
 - 🔭 I’m  working on my project <a href="https://github.com/Lelikbjmak/Terminal_rev4.2_MVC">
 <img src="https://www.freeiconspng.com/uploads/blue-idea-icon-18.png" width="17px">observe<a/>
 <br/>
-- 👯 I’m looking forward to job. #opentowork.
+- 👯 #opentowork.
 <br/>
 - ⚡ In my lesior time I solve tasks on codewars.com, develope english speach. Or you can find me in the nearest gym.
 </div>
