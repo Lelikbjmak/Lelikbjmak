@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/iamdenissolovey">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge" width="70" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge" width="70"/>
   </a>
   
   <a href="https://t.me/IamSoloveyDenis">
@@ -26,14 +26,12 @@
 <div id="aboutMe">
 I'am Java backend developer from Belarus!
 <br/>
-- 🌱 I’m currently enreaching my knowledge about Java, Spring and SQL.
+- 🌱 I’m currently enreaching my knowledge about Java, Spring and SQL & NoSQL.
 <br/>
-- 🔭 I’m  working on my project <a href="https://github.com/Lelikbjmak/Terminal_rev4.2_MVC">
+- 🔭 I’m  working on my projects <a href="https://github.com/Lelikbjmak?tab=repositories">
 <img src="https://www.freeiconspng.com/uploads/blue-idea-icon-18.png" width="17px">observe<a/>
 <br/>
-- 👯 #opentowork.
-<br/>
-- ⚡ In my lesior time I solve tasks on codewars.com, develope english speach. Or you can find me in the nearest gym.
+- ⚡ In my lesior time I solve tasks on codewars.com, boost english speach.
 </div>
 
 ---
@@ -47,8 +45,10 @@ I'am Java backend developer from Belarus!
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostrgeSQL"  alt="PostrgeSQL" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" width="40" height="40"  title="Idea" **alt="Idea">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" alt="MS Server" height="40">
 </div>
 
 ---
